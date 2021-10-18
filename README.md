@@ -1,6 +1,6 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-📍 &nbsp; I just finished [@Adalab](https://github.com/Adalab) Bootcamp and learned: HTML, CSS, JavaScript, React and Node.js.\
+📍 &nbsp; I just finished [@Adalab](https://github.com/Adalab) Bootcamp and learned: HTML, CSS, JavaScript, React and Node.js.
 
 - &nbsp; I’m currently working on creating webpages and learning how to program.
 - &nbsp; I like to travel, code, Arts & Design and visit Museums in my free time 💙.
@@ -29,5 +29,3 @@
 
 💬 &nbsp; Feel free to reach out to me for consulting, or just for some interesting discussion.\
 📫 &nbsp; You can shoot me an email at patricuismart@gmail.com ! I'll try to respond as soon as I can.
-
----
