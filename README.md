@@ -2,9 +2,9 @@
 
 📍 &nbsp; I just finished [@Adalab](https://github.com/Adalab) Bootcamp and learned: HTML, CSS, JavaScript, React and Node.js.\
 
-- &nbsp; I’m currently working on creating webpages and learning how to program.\
-- &nbsp; I like to travel, code, Arts & Design and visit Museums in my free time.\
-- &nbsp; First solve the problem. Then write the code– John Johnson.
+- &nbsp; I’m currently working on creating webpages and learning how to program.
+- &nbsp; I like to travel, code, Arts & Design and visit Museums in my free time 💙.
+- &nbsp; First solve the problem. Then write the code– John Johnson ⚡.
 
 ---
 
