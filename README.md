@@ -5,7 +5,7 @@
 💙 &nbsp; I like to travel, code, Arts & Design and visit Museums in my free time.\
 💬 &nbsp; Feel free to reach out to me for consulting, or just for some interesting discussion.\
 📫 &nbsp; You can shoot me an email at patricuismart@gmail.com ! I'll try to respond as soon as I can.\
-⚡ &nbsp; First solve the problem. then write the code– John Johnson.\
+⚡ &nbsp; First solve the problem. then write the code– John Johnson.
 
 ### &nbsp;Tech Stack 🛠
 
