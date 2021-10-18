@@ -14,9 +14,9 @@
 🌐 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![Sass](https://img.shields.io/badge/Sass-333333?style=flat&logo=sass&logoColor=pink)&nbsp;
 
-⚙️ ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp; ![Slack](https://img.shields.io/badge/Slack-333333?style=flat&logo=slack)&nbsp;
+⚙️ ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp; ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)&nbsp;
 
-🛢 ![SQLITE](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=007ACC)&nbsp; ![Heroku](https://img.shields.io/badge/Heroku-333333?style=flat&logo=heroku&logoColor=purple)&nbsp; ![Unity](https://img.shields.io/badge/Unity-333333?style=flat&logo=unity&logoColor=white)&nbsp;
+🛢 ![SQLITE](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=007ACC)&nbsp; ![Heroku](https://img.shields.io/badge/Heroku-333333?style=flat&logo=heroku&logoColor=7289DA)&nbsp; ![Unity](https://img.shields.io/badge/Unity-333333?style=flat&logo=unity&logoColor=white)&nbsp;
 
 🔧 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
