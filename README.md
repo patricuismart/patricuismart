@@ -3,7 +3,7 @@
 📍 &nbsp; I just finished [@Adalab](https://github.com/Adalab) Bootcamp and learned: HTML, CSS, JavaScript, React and Node.js.
 
 - &nbsp; I’m currently working on creating webpages and learning how to program.
-- &nbsp; I have reoriented my professional career as a Front-end Developer and I'm currently looking to a new job position in this area.
+- &nbsp; I have reoriented my professional career as a Front-end Developer and I'm looking for a new job position in this area.
 - &nbsp; I like to travel, code, Arts & Design and visit Museums in my free time 💙.
 - &nbsp; First solve the problem. Then write the code– John Johnson ⚡.
 
