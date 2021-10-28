@@ -29,5 +29,5 @@
 ### &nbsp;Connect with Me 🤝🏻
 
 💬 &nbsp; Feel free to reach out to me for consulting, or just for some interesting discussion.\
-📫 &nbsp; You can shoot me an email at patricuismart@gmail.com ! I'll try to respond as soon as I can.
+📫 &nbsp; You can shoot me an email at patricuismart@gmail.com ! I'll try to respond as soon as I can.\
 ▶️ &nbsp; [@LinkedIn] (https://www.linkedin.com/in/martinez-patricia/)
