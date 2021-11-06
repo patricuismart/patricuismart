@@ -3,7 +3,7 @@
 📍 &nbsp; I just finished [@Adalab](https://github.com/Adalab) Bootcamp and learned: HTML, CSS, JavaScript, React and Node.js.
 
 - &nbsp; I’m currently working on creating webpages and learning how to program.
-- &nbsp; Currently working on this WebGl [Project](https://github.com/patricuismart/proyecto-esculturas-unity)(built in Unity) 
+- &nbsp; Currently working on this WebGl [Project](https://github.com/patricuismart/proyecto-esculturas-unity) (built in Unity) 
 - &nbsp; I have reoriented my professional career as a Front-end Developer and looking for a new job position in this area.
 - &nbsp; I like to travel, code, Arts & Design and visit Museums in my free time 💙.
 - &nbsp; First solve the problem. Then write the code– John Johnson ⚡.
