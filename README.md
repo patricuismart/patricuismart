@@ -1,4 +1,4 @@
-## Hello World, I'm Patricia! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="60px"></h2> 
+## Hello World, I'm Patricia! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> 
 <img alt="GIF" src="https://cdn.dribbble.com/users/77121/screenshots/16732595/media/3c89670a569109571a440716f653e49f.gif" width = 400/>
 
 📍 &nbsp; I just finished [@Adalab](https://github.com/Adalab) Bootcamp and learned: HTML, CSS, JavaScript, React and Node.js.
